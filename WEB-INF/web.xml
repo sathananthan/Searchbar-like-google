@@ -1,0 +1,11 @@
+<web-app>
+    <servlet>
+        <servlet-name>searchbar</servlet-name>
+        <servlet-class>searchbar</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>searchbar</servlet-name>
+        <url-pattern>/searchbar</url-pattern>
+    </servlet-mapping>
+</web-app>
